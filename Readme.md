@@ -4,7 +4,7 @@
   <samp>
     Hello, I'm Julien! 👋
     Software Engineer<br>
-    💻 website: https://julienkarst.com
+    💻 website: https://www.julienkarst.com
   </samp>
 </p>
 
